@@ -4,7 +4,7 @@ Sky Hub
 
 By Sky/jazminethecooles2001
 
-games it supports Da Hood, Arsenal, Tower of H***, KAT!, Fencing,
+games it supports Da Hood, Arsenal, Tower of Hell, KAT!, Fencing,
 Work At A Pizza Place, VR Hands, Adopt Me, Jailbreak, Prison Life,
 Build A Boat For Treasure, Gorilla Tag Professional, Murder Mystery 2, Blox Fruits, Counter Blox, Mic Up, Neighbors, Natural Disaster Survival, Ro-Ghoul, Blade Ball, Pet Simulator X,
 Pet Simulator 99, Legends of Speed, BrookHaven RP, Bedwars, CHAOS, Ninja Legends, Bayside High School, BIG PaintBall!, BIG PaintBall 2!, Muscle Legends, Road to Grambys, Bloxburg, Cursed Sea, Doors,
@@ -27,7 +27,7 @@ Rainbow Sunlock by therealxora https://discord.gg/iosexploiters
 
 IF YOU WANT ME TO ADD A GAME OR REPORT A BUG JOIN MY DISCORD SERVER OR DM ME
 
-https://discord.gg/xPDF3DkKhk
+https://web.archive.org/web/20241221144329/https://discord.gg/xPDF3DkKhk
 
 ]]--
 if game:GetService("CoreGui"):FindFirstChild("incognito") then
@@ -303,153 +303,153 @@ task.wait()
 save()
 -- Da Hood
 if game.PlaceId == 2788229376 or game.PlaceId == 7213786345 or game.PlaceId == 16033173781 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/dahood.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/dahood.lua'))()
 -- Arsenal
 elseif game.PlaceId == 286090429 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/arsenal.lua'))()
--- Tower Of H***
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/arsenal.lua'))()
+-- Tower Of Hell
 elseif game.PlaceId == 1962086868 or game.PlaceId == 3582763398 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/towerofhell.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/towerofhell.lua'))()
 -- KAT!
 elseif game.PlaceId == 621129760 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/kat.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/kat.lua'))()
 -- Fencing
 elseif game.PlaceId == 12109643 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/fencing.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/fencing.lua'))()
 -- Work at a Pizza Place
 elseif game.PlaceId == 192800 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/workatapizzaplace.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/workatapizzaplace.lua'))()
 -- VR Hands
 elseif game.PlaceId == 4832438542 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/vrhands.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/vrhands.lua'))()
 -- Adopt me
 elseif game.PlaceId == 920587237 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/adoptme.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/adoptme.lua'))()
 -- JailBreak
 elseif game.PlaceId == 606849621 or game.PlaceId == 17190407811 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/jailbreak.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/jailbreak.lua'))()
 -- Prison Life
 elseif game.PlaceId == 155615604 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/prisonlife.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/prisonlife.lua'))()
 -- Build A Boat or BABFT
 elseif game.PlaceId == 537413528 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/buildaboatfortreasure.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/buildaboatfortreasure.lua'))()
 -- Gorilla Tag Professional
 elseif game.PlaceId == 8690998110 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/gorillatagprofessional.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/gorillatagprofessional.lua'))()
 -- Murder Mystery 2 or MM2
 elseif game.PlaceId == 142823291 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/murdermystery2.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/murdermystery2.lua'))()
 -- Blox Fruits
 elseif game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/bloxfruits.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/bloxfruits.lua'))()
 -- Counter Blox
 elseif game.PlaceId == 301549746 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/counterblox.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/counterblox.lua'))()
 -- Mic Up
 elseif game.PlaceId == 6884319169 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/micup.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/micup.lua'))()
 -- Neighbors
 elseif game.PlaceId == 12699642568 or game.PlaceId == 14236925335 or game.PlaceId == 13108856598 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/neighbors.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/neighbors.lua'))()
 -- Natural Disaster Survival
 elseif game.PlaceId == 189707 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/naturaldisastersurvival.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/naturaldisastersurvival.lua'))()
 -- Ro-Ghoul
 elseif game.PlaceId == 914010731 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/ro-ghoul.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/ro-ghoul.lua'))()
 -- Blade Ball
 elseif game.PlaceId == 13772394625 or game.PlaceId == 14732610803 or game.PlaceId == 14915220621 or game.PlaceId == 15144787112 or game.PlaceId == 15264892126 or game.PlaceId == 15509350986 or game.PlaceId == 16281300371 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/bladeball.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/bladeball.lua'))()
 -- Pet Simulator X
 elseif game.PlaceId == 6284583030 or game.PlaceId == 10321372166 then 
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/petsimulatorx.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/petsimulatorx.lua'))()
 -- Pet Simulator 99
 elseif game.PlaceId == 8737899170 or game.PlaceId == 16498369169 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/petsimulator99.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/petsimulator99.lua'))()
 -- Legends of Speed
 elseif game.PlaceId == 3101667897 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/legendsofspeed.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/legendsofspeed.lua'))()
 -- Brookhaven RP
 elseif game.PlaceId == 4924922222 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/brookhavenrp.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/brookhavenrp.lua'))()
 -- Bedwars
 elseif game.PlaceId == 6872265039 or game.PlaceId == 6872274481 or game.PlaceId == 8444591321 or game.PlaceId == 8560631822 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/bedwars.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/bedwars.lua'))()
 -- CHAOS
 elseif game.PlaceId == 6441847031 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/chaos.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/chaos.lua'))()
 -- Ninja Legends
 elseif game.PlaceId == 3956818381 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/ninjalegends.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/ninjalegends.lua'))()
 -- Bayside High School
 elseif game.PlaceId == 12640491155 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/baysidehighschool.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/baysidehighschool.lua'))()
 -- BIG PaintBall!
 elseif game.PlaceId == 3527629287 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/bigpaintball.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/bigpaintball.lua'))()
 -- BIG PaintBall! 2
 elseif game.PlaceId == 9865958871 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/bigpaintball2.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/bigpaintball2.lua'))()
 -- Muscle Legends
 elseif game.PlaceId == 3623096087 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/musclelegends.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/musclelegends.lua'))()
 -- Road to Grambys from Luau
 elseif game.PlaceId == 5796917097 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/roadtogrambys.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/roadtogrambys.lua'))()
 -- Bloxburg
 elseif game.PlaceId == 185655149 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/bloxburg.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/bloxburg.lua'))()
 -- Doors
 elseif game.PlaceId == 6516141723 or game.PlaceId == 6839171747 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/doors.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/doors.lua'))()
 -- Hide and Seek Extreme
 elseif game.PlaceId == 205224386 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/hideandseekextreme.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/hideandseekextreme.lua'))()
 -- Life in Paradise 
 elseif game.PlaceId == 1662219031 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/lifeinparadise.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/lifeinparadise.lua'))()
 -- Adopt and Raise a Baby 
 elseif game.PlaceId == 383793228 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/adoptandraiseacutebaby.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/adoptandraiseacutebaby.lua'))()
 -- Zombie Attack
 elseif game.PlaceId == 1240123653 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/zombieattack.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/zombieattack.lua'))()
 -- Super Simon Says
 elseif game.PlaceId == 61846006 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/supersimonsays.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/supersimonsays.lua'))()
 -- Life Sentence
 elseif game.PlaceId == 13083893317 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/lifesentence.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/lifesentence.lua'))()
 -- Rainbow Friends
 elseif game.PlaceId == 7991339063 or game.PlaceId == 13622985049 or game.PlaceId == 13622981808 or game.PlaceId == 8588743386 or game.PlaceId == 8888615802 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/rainbowfriends.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/rainbowfriends.lua'))()
 -- Infectious Smile
 elseif game.PlaceId == 5985232436 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/infectioussmile.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/infectioussmile.lua'))()
 -- Colony Survival
 elseif game.PlaceId == 14888386963 or game.PlaceId == 14972061219 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/colonysurvival.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/colonysurvival.lua'))()
 -- Red Light, Green Light
 elseif game.PlaceId == 7540891731 or game.PlaceId == 7577073048 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/redlightgreenlight.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/redlightgreenlight.lua'))()
 -- 3008
 elseif game.PlaceId == 2768379856 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/3008.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/3008.lua'))()
 -- Guess the drawing!
 elseif game.PlaceId == 3281073759 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/guessthedrawing.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/guessthedrawing.lua'))()
 -- VR Hangout
 elseif game.PlaceId == 8769714622 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/vrhangout.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/vrhangout.lua'))()
 -- VR Hands Legacy
 elseif game.PlaceId == 16912831373 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/vrhandslegacy.lua'))()
-elseif game.PlaceId == 17625359962 or game.PlaceId == 18126510175 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/rivals.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/vrhandslegacy.lua'))()
+elseif game.PlaceId == 17625359962 then
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/rivals.lua'))()
 -- RIVALS
 elseif game.PlaceId == 3652625463 then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/liftingsimulator.lua'))()
+	loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/games/liftingsimulator.lua'))()
 -- Lifting Simulator
 else
 -- Universal
@@ -468,7 +468,7 @@ else
 		})
 	end
 	if iswave then
-		Library.Notify("Warning", 'Your Executor "Wave" Is dog s*** and file functions are s*** so would you like a fix for them so more support for more scripts or disable them? or ingore this and keep somewhat functions (takes abt 40 secs to go away)', 35, function(val)
+		Library.Notify("Warning", 'Your Executor "Wave" Is dog shit and file functions are shit so would you like a fix for them so more support for more scripts or disable them? or ingore this and keep somewhat functions (takes abt 40 secs to go away)', 35, function(val)
 			if val == true then
 				loadstring(game:HttpGet("https://raw.githubusercontent.com/yofriendfromschool1/wave_fixedscripts/main/Disable%20file%20and%20folder%20functions%20Wave.lua"))()
 			else
@@ -484,7 +484,7 @@ else
 			if val == true then
 				
 			else
-				queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/SkyHub.txt'))()")
+				queueteleport("loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/SkyHub.txt'))()")
 			end
 		end, {
 			"Yes",
@@ -500,15 +500,8 @@ else
 		Library.Notify("Current Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your current keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
 	end
 	for i,v in pairs(game:GetService("ReplicatedStorage"):GetDescendants()) do
-		if v:IsA("RemoteEvent") and (v.Name == "DestroySegway" or v.Name == "DeleteCar" or v.Name == "HandlessSegway" or v.Name == "Building Tools" or v.Name == "SetNetworkOwnership" or v.Name == "ChangeParent" or v.Name == "despawn" or v.Name == "AC6_FE_Sounds") then
-			Library.Notify("OMG VULN/AC6 sound FOUND","Vuln name: '" .. v.Name .. "' if you want you can join the discord server and share it in #share-vuln-ac6-games by pasting the text, and provides an explaination",30)
-			everyClipboard("https://www.roblox.com/games/"..game.PlaceId, v.Name)
-		end
-	end
-	for i,v in pairs(game:GetService("Workspace"):GetDescendants()) do
-		if v:IsA("RemoteEvent") and (v.Name == "DestroySegway" or v.Name == "DeleteCar" or v.Name == "HandlessSegway" or v.Name == "Building Tools" or v.Name == "SetNetworkOwnership" or v.Name == "ChangeParent" or v.Name == "despawn" or v.Name == "AC6_FE_Sounds") then
-			Library.Notify("OMG VULN/AC6 sound FOUND","Vuln name: '" .. v.Name .. "' if you want you can join the discord server and share it in #share-vuln-ac6-games by pasting the text, and provides an explaination",30)
-			everyClipboard("https://www.roblox.com/games/"..game.PlaceId, v.Name)
+		if v.Name == "DestroySegway" or v.Name == "DeleteCar" or v.Name == "HandlessSegway" or v.Name == "Building Tools" or v.Name == "SetNetworkOwnership" or v.Name == "ChangeParent" or v.Name == "despawn" then
+			Library.Notify("OMG VULN FOUND","If you dm me in discord: jazminethecooles2001 or post the game u are currently playing in the discord I will give you a role. PLSSS",30)
 		end
 	end
 	local Window = Library.CreateLib("Sky Hub", OptTheme)
@@ -517,11 +510,11 @@ else
 	DiscordSection:NewButton("Discord Invite", "copys discord link", function()
 		if httprequest and not IsOnMobile then
 			httprequest({
-				Url = 'http://127.0.0.1:6463/rpc?v=1',
+				Url = 'https://web.archive.org/web/20241221144329/http://127.0.0.1:6463/rpc?v=1',
 				Method = 'POST',
 				Headers = {
 					['Content-Type'] = 'application/json',
-					Origin = 'https://discord.com'
+					Origin = 'https://web.archive.org/web/20241221144329/https://discord.com'
 				},
 				Body = HttpService:JSONEncode({
 					cmd = 'INVITE_BROWSER',
@@ -536,7 +529,7 @@ else
 			everyClipboard("https://discord.gg/xPDF3DkKhk")
 			Library.Notify("Copied to Clipboard", "", 5)
 		else
-			Library.Notify("DOG S*** EXECUTOR", "https://discord.gg/xPDF3DkKhk", 5)
+			Library.Notify("DOG SHIT EXECUTOR", "https://discord.gg/xPDF3DkKhk", 5)
 		end
 	end)
 	DiscordSection:NewButton("Discord Invite OLD", "Copys Discord invite link", function()
@@ -558,7 +551,7 @@ else
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/Infinite-Store/Infinite-Store/main/main.lua"))()
 	end)
 	AdminsSection:NewButton("Nameless Admin", "Admin", function()
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/NamelessAdmin-NO-BYFRON-GUI/main/Source'))()
+		loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/NamelessAdmin-NO-BYFRON-GUI/main/Source'))()
 	end)
 	AdminsSection:NewButton("fates admin", "Admin", function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))();
@@ -570,11 +563,11 @@ else
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/lxte/cmd/main/testing-main.lua"))()
 	end)
 	AdminsSection:NewButton("Shattervast Admin", "Admin", function()
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub-Backup/main/%5BFE%5D%20Shattervast.lua'))()
+		loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub-Backup/main/%5BFE%5D%20Shattervast.lua'))()
 	end)
 	AdminsSection:NewButton("Proton Free Admin", "Admin", function()
 		_G.UI_Id = "default" --set this to "default" for the default ui
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/DigitalityScripts/roblox-scripts/main/Proton%20Free'))()
+		loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/DigitalityScripts/roblox-scripts/main/Proton%20Free'))()
 	end)
 	AdminsSection:NewButton("Proton 2 free Admin", "Admin", function()
 			 -- DEFAULT CMD BAR PREFIX IS ;
@@ -880,7 +873,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -894,7 +887,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -908,7 +901,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -922,7 +915,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -936,7 +929,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -950,7 +943,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -964,7 +957,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -978,7 +971,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -992,7 +985,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1006,7 +999,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1020,7 +1013,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1034,7 +1027,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1048,7 +1041,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1062,7 +1055,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1076,7 +1069,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1090,7 +1083,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1104,7 +1097,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1118,7 +1111,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1132,7 +1125,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1146,7 +1139,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1160,7 +1153,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1174,7 +1167,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1188,7 +1181,7 @@ else
 				task.wait()
 				loadsettings()
 			else
-				Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+				Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 			end
 			if not IsOnMobile then
 				Library.Notify("New Keybind: " .. tostring(getgenv().SkyhubKeybind),"Your new keybind to toggle the gui is: " ..tostring(getgenv().SkyhubKeybind), 5)
@@ -1204,7 +1197,7 @@ else
 			task.wait()
 			loadsettings()
 		else
-			Library.Notify("DOG S*** EXECUTOR", "Doesnt have file functions lol", 5)
+			Library.Notify("DOG SHIT EXECUTOR", "Doesnt have file functions lol", 5)
 		end
 	end)
 	SettingssSection:NewButton("Save Game", "Saves game MUST HAVE saveinstance()", function()
@@ -1241,7 +1234,7 @@ else
 
 	for _, v in ipairs(gamedata) do
 		GamesSection:NewButton(v.name, "Teleports you to game", function()
-			queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/SkyHub.txt'))()")
+			queueteleport("loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/SkyHub.txt'))()")
 			game:GetService("TeleportService"):Teleport(v.placeId, game:GetService("Players").LocalPlayer)
 		end)
 	end
@@ -1255,28 +1248,28 @@ else
 		end)
 	end
 	HubsSection:NewButton("FE Trolling GUI", "FE Scripts and more.", function()--
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/FE%20Trolling%20GUI.luau'), true))()
+		loadstring(game:HttpGet(('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/FE%20Trolling%20GUI.luau'), true))()
 	end)
 	HubsSection:NewButton("Sirius", "cool asl", function()--
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub-Backup/main/Sirius/Sirius.txt'), true))()
+		loadstring(game:HttpGet(('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub-Backup/main/Sirius/Sirius.txt'), true))()
 	end)
 	HubsSection:NewButton("Orca", "cool asff", function()--
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub-Backup/main/Orca/latest.lua'), true))()
+		loadstring(game:HttpGet(('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub-Backup/main/Orca/latest.lua'), true))()
 	end)
 	HubsSection:NewButton("Hoho Hub", "Hoho", function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HohoV2/main/ScriptLoad.lua"))()
 	end)
 	HubsSection:NewButton("VG Hub", "60+ Games", function()
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+		loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
 	end)
 	HubsSection:NewButton("EZ Hub", "130+ Games", function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/Launcher.lua'), true))()
+		loadstring(game:HttpGet(('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/Launcher.lua'), true))()
 	end)
 	HubsSection:NewButton("Owl Hub", "46+ Games", function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
 	end)
 	HubsSection:NewButton("CocoHub", "CocoHub", function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/MarsQQ/CocoHub/master/CocoZHub'), true))()
+		loadstring(game:HttpGet(('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/MarsQQ/CocoHub/master/CocoZHub'), true))()
 	end)
 	HubsSection:NewButton("MonkeHub", "MonkeHub", function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/KuriWasTaken/MonkeHub/main/Loader.lua"))()
@@ -1285,7 +1278,7 @@ else
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/garfield%20hub", true))()
 	end)
 	HubsSection:NewButton("Unfair Hub", "Unfair Hub", function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua'), true))()
+		loadstring(game:HttpGet(('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua'), true))()
 	end)
 	HubsSection:NewButton("Eclipse Hub", "Eclipse Hub", function()
 		local a, b, c, d, e = loadstring, request or http_request or (http and http.request) or (syn and syn.request), assert, tostring, "https://api.eclipsehub.xyz/auth"
@@ -2368,11 +2361,11 @@ else
 		end)
 	end)
 	MainSection:NewButton("GabX", "GabX", function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub-Backup/main/GabX'), true))()
+		loadstring(game:HttpGet(('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub-Backup/main/GabX'), true))()
 	end)
 	MainSection:NewButton("UnNamed ESP", "UnNamed ESP", function()
 		pcall(function()
-			loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))()
+			loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))()
 		end)
 	end)
 	MainSection:NewButton("Mobile Aimbot", "only use if your actually on mobile", function()
@@ -2473,12 +2466,12 @@ else
 		end)
 	end)
 	MainSection:NewButton("Portal Gun", "COOL ASF", function()
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/portal%20gun.txt'))()
+		loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/portal%20gun.txt'))()
 	end)
 	local executors2345 = Window:NewTab("Executors", 10507357657)-- made by espresso0069
 	local executors2345Section = executors2345:NewSection("Executors")-- made by espresso0069
 	executors2345Section:NewButton("Synapse X", "uses synapse x functions", function()-- made by espresso0069
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/Synapse_UI.txt'))()-- made by espresso0069
+		loadstring(game:HttpGet('https://web.archive.org/web/20241221144329/https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/Synapse_UI.txt'))()-- made by espresso0069
 	end)-- made by espresso0069
 -- made by espresso0069 ^^^^^
 	local PlaceInfo = Window:NewTab("Place Info", 10507357657)
